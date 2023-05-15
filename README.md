@@ -1,5 +1,5 @@
 # Language_Translator.py
-Language Translator is a Translator using Graphical User Interface(GUI) in Python, using the Tkinter library.
+Language Translator is a Translator using Graphical User Interface(GUI) in Python, and also using the Tkinter library.
 In this project, a language will be chosen from a list of options in which the text is to be entered, and also
 the language in which the text will be translated.
 After selecting the languages, the translate button will be clicked to translate the text.
